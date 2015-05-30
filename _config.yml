@@ -11,11 +11,11 @@ highlighter: pygments
 title : GitItGirl
 tagline: The Nerdy Adventures of KaraAJC
 author : Kara C
-  name : Kara Carrell
-  email : KaraAJC@gmail.com
-  github : KaraAJC
-  twitter : KaraAJC
-  feedburner : KaraAJC
+name : Kara Carrell
+email : KaraAJC@gmail.com
+github : KaraAJC
+twitter : KaraAJC
+feedburner : KaraAJC
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
